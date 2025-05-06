@@ -1,24 +1,30 @@
-<h1 align="center">✨ Hey there, I'm Andrei Kagu 👋</h1>
+<h1 align="center">👋 Hi, I'm Andrei Kägu</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&width=435&lines=Fullstack+Web+Developer;JavaScript+%7C+TypeScript+%7C+React+%7C+Python;Clean+Code+Lover+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=F9826C&center=true&width=440&lines=Fullstack+Developer+from+Estonia+🇪🇪;JavaScript+%7C+TypeScript+%7C+React+%7C+Python;Code.+Play+Dota+2.+Repeat.+%F0%9F%8E%AE" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 Обо мне / About Me
-Привет! Меня зовут **Андрей**, я из Эстонии 🇪🇪, мне 21 год.  
-Люблю играть в **Dota 2 🎮** и писать код — иногда даже одновременно!  
-Хочу развиваться как разработчик и создавать полезные и красивые приложения.
+### 🧠 About Me
 
-Hi, I’m **Andrei Kägu** — a self-taught developer passionate about code, games, and constant learning.  
-I enjoy solving problems and turning ideas into digital reality. Currently leveling up my fullstack skills.
+I'm **Andrei Kägu**, a 21-year-old fullstack developer based in **Estonia** 🇪🇪.
+
+- 🎮 I love playing **Dota 2** and writing code — sometimes at the same time!
+- 💻 Passionate about **web development**, clean code, and learning new technologies.
+- 🌱 Currently focused on building beautiful and functional web apps using **React**, **TypeScript**, and **Python**.
+
+> "Turning ideas into reality through code."
 
 ---
 
-### 💻 Мой стек / My Tech Stack
+### 🚀 Tech Stack
 
-```js
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,sqlite&perline=7" />
+</div>
+
+```ts
 const techStack = [
   "JavaScript", "TypeScript", "React",
   "HTML", "CSS", "Python", "SQL"
-]
+];
